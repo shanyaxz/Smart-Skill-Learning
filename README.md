@@ -1,7 +1,14 @@
 
 
 # Smart-Skill-Learning
-Here’s a concise README file for your decentralized skill enhancement platform project. This README includes the vision, flowchart description, contract address placeholders, future scope, and contact details.
+
+
+
+![Screenshot 2024-08-27 154216](https://github.com/user-attachments/assets/a72aeff3-c58c-4934-84f0-768c9d586d2e)
+
+
+
+ This README includes the vision, flowchart description, contract address placeholders, future scope, and contact details.
 
 ---
 
